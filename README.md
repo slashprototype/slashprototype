@@ -1,4 +1,4 @@
-# 👋 ¡Hola! Soy [slashprototype]
+# 👋 ¡Hola! Soy Slashprototype
 
 Soy desarrollador de software y firmware con experiencia en **C# .NET 8**, **Python**, **DJango**, y tecnologías IoT. Actualmente colaboro en un **centro de investigación en México**, donde desarrollo firmware para dispositivos médicos e implemento protocolos como **CANopen**. Además, tengo experiencia en configuración de servidores Ubuntu, creación de APIs, y despliegue de aplicaciones.
 
