@@ -5,11 +5,12 @@ Soy desarrollador de software y firmware con experiencia en **C# .NET 8**, **Pyt
 ---
 
 ## 🚀 Tecnologías y herramientas que utilizo
-- **Lenguajes de programación**: C#, Python, C, JavaScript.
+- **Lenguajes de programación**: C#, Python, C, C++, JavaScript.
 - **Frameworks y herramientas**:
-  - Backend: DJango, FastAPI.
-  - Escritorio: Tkinter.
-- **Bases de datos**: PostgreSQL.
+  - Backend: DJango.
+  - Python GUI: Tkinter, Customtkiner, ttkbootstrap, Flet.
+  - Escritorio Windows: WPF con .NET utilizando MVC y MVVM.
+- **Bases de datos**: PostgreSQL, MongoDB.
 - **Firmware e IoT**: Desarrollo en **TM4C123**, **ESP32**, manejo de **MQTT**, y protocolos como **CANopen**.
 - **Infraestructura**:
   - Servidores Ubuntu con Nginx (reverse proxy).
