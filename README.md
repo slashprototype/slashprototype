@@ -1,26 +1,46 @@
 # 👋 ¡Hola! Soy Slashprototype
 
-Soy desarrollador de software y firmware con experiencia en **C# .NET 8**, **Python**, **DJango**, y tecnologías IoT. Actualmente colaboro en un **centro de investigación en México**, donde desarrollo firmware para dispositivos médicos e implemento protocolos como **CANopen**. Además, tengo experiencia en configuración de servidores Ubuntu, creación de APIs, y despliegue de aplicaciones.
+Soy desarrollador de **software y firmware**, con experiencia creando soluciones que integran **aplicaciones de escritorio, web e IoT**.  
+Trabajo en el desarrollo de **firmware para dispositivos médicos**, protocolos como **CANopen**, y en la creación de **sistemas de gestión y punto de venta** con arquitecturas completas (frontend, backend y sincronización de bases de datos).
 
 ---
 
 ## 🚀 Tecnologías y herramientas que utilizo
 - **Lenguajes de programación**: C#, Python, C, C++, JavaScript.
 - **Frameworks y herramientas**:
-  - Backend: DJango.
-  - Python GUI: Tkinter, Customtkiner, ttkbootstrap, Flet.
-  - Escritorio Windows: WPF con .NET utilizando MVC y MVVM.
+  - Backend: **Django**, APIs REST.
+  - Frontend Desktop: **WPF con .NET (MVC/MVVM)**, **Flet**, **Tkinter**, **ttkbootstrap**.
+  - Frontend Web: **Flet Web**, React (básico).
 - **Bases de datos**: PostgreSQL, MongoDB.
-- **Firmware e IoT**: Desarrollo en **TM4C123**, **ESP32**, manejo de **MQTT**, y protocolos como **CANopen**.
+- **Firmware e IoT**: **TM4C123**, **ESP32**, **MQTT**, **CANopen**.
 - **Infraestructura**:
-  - Servidores Ubuntu con Nginx (reverse proxy).
+  - Servidores Ubuntu con **Nginx (reverse proxy)**.
+  - Sincronización de bases de datos con **SymmetricDS**.
   - Despliegue de servicios y configuraciones en Linux.
-- **Control de versiones y despliegues**: Releases de GitHub, manejo de entornos CI/CD.
-  
+- **Control de versiones y despliegues**: GitHub Releases, CI/CD.
+
 ---
 
 ## 🛠️ Proyectos destacados
-Aquí están algunos de los repositorios públicos en los que trabajo y contribuyo:
+
+### **Aplicaciones de negocio y gestión**
+- **Sistema de Punto de Venta para mercería**  
+  Desarrollo de **dos aplicaciones desktop** en **C# WPF .NET** (vendedor y administrador).  
+  - Backend local en **Django + PostgreSQL**.  
+  - **Sincronización con la nube** usando SymmetricDS.  
+  - Backend desplegado en servidor remoto conectado con frontend de otro colaborador.  
+
+- **Sistema de gestión de empaque agroindustrial**  
+  Creación de **dos aplicaciones** en **Python/Flet**:  
+  - Para empacadores: integración con escáner de código de barras y pantalla táctil.  
+  - Para gerente: seguimiento de cajas empacadas, entradas/salidas de producto y reportes en tiempo real.  
+
+- **Sistema de Punto de Venta para expendio al mayoreo**  
+  Proyecto en **Flet (frontend)** y **Django (backend)**.  
+  - Módulos: usuarios, clientes, inventarios, productos, precios y descuentos.  
+  - Dos aplicaciones: una para vendedores y otra para administradores.  
+
+---
 
 ### **Firmware y microcontroladores**
 - [CANopenTM4C123](https://github.com/slashprototype/CANopenTM4C123)  
@@ -47,18 +67,12 @@ Aquí están algunos de los repositorios públicos en los que trabajo y contribu
   ![GitHub repo size](https://img.shields.io/github/repo-size/slashprototype/tm4c_stspin820)  
   ![GitHub last commit](https://img.shields.io/github/last-commit/slashprototype/tm4c_stspin820)
 
-### **Otros proyectos**
-Aunque la mayoría de mis proyectos en software y IoT son privados o experimentales, mis áreas de interés incluyen:
-- Desarrollo de dashboards para visualización de datos IoT.
-- Integración de dispositivos con **ESP32** y **brokers MQTT**.
-- Aplicaciones con **Tkinter** y despliegue en múltiples plataformas.
-
 ---
 
 ## 🌐 Conéctate conmigo
 Si te interesa colaborar o aprender más sobre mi trabajo, no dudes en contactarme o revisar mis repositorios públicos. ¡Estoy abierto a nuevos proyectos y oportunidades!
 
-[![GitHub followers](https://img.shields.io/github/followers/slashprototype?label=Follow%20me&style=social)](https://github.com/slashprototype)
+[![GitHub followers](https://img.shields.io/github/followers/slashprototype?label=Follow%20me&style=social)](https://github.com/slashprototype)  
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Contact%20Me-blue?style=flat&logo=linkedin)](https://www.linkedin.com/in/luis-guillermo98/)
 
 ---
