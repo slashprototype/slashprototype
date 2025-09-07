@@ -24,7 +24,7 @@ Trabajo en el desarrollo de **firmware para dispositivos médicos**, protocolos 
 ## 🛠️ Proyectos destacados
 
 ### **Aplicaciones de negocio y gestión**
-- **Sistema de Punto de Venta para mercería**  
+- **Sistema de Punto de Venta para expendio pollo y marisco**  
   Desarrollo de **dos aplicaciones desktop** en **C# WPF .NET** (vendedor y administrador).  
   - Backend local en **Django + PostgreSQL**.  
   - **Sincronización con la nube** usando SymmetricDS.  
