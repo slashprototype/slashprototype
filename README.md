@@ -2,6 +2,7 @@
 
 Soy desarrollador de **software y firmware**, con experiencia creando soluciones que integran **aplicaciones de escritorio, web e IoT**.  
 Trabajo en el desarrollo de **firmware para dispositivos médicos**, protocolos como **CANopen**, y en la creación de **sistemas de gestión y punto de venta** con arquitecturas completas (frontend, backend y sincronización de bases de datos).
+Te invito a visitar mi portafolio web en: http://slashprototype.com
 
 ---
 
